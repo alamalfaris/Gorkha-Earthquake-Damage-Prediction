@@ -6,7 +6,7 @@
 > - 25 April 2015 Nepal mengalami gempa yang terparah sejak 1934, dengan korban meninggal sebanyak 8964 jiwa, korban luka sebanyak 21952 orang, dan 3.5 juta orang menjadi homeless. Kerugian ekonomi diperkirakan 35% dari PDB Nepal. Gempa ini memiliki magnitudo sebesar 7.8 Mw (Moment Magnitudo Scale) dengan pusat gempa di Barpak, Distrik Gorkha, dan kedalaman hipocenter sekitar 8.2 km
 
 ## Problem:
-> - Jika terjadi gempa yang sama, bagaimana dapat mengetahui level kerusakan bangunan dengan kombinasi spesifikasi struktur tertentu
+> - Jika terjadi gempa yang sama, bagaimana dapat mengetahui level kerusakan bangunan dengan kombinasi spesifikasi bangunan
 
 > - Sampai saat ini kemunculan gempa bumi belum bisa diprediksi secara akurat, karena gempa merupakan bencana yang kompleks, melibatkan banyak variabel. Lalu bagaimana pemerintah Nepal dapat mengurangi resiko akibat gempa bumi terkhusus resiko di sektor infrastruktur
 
