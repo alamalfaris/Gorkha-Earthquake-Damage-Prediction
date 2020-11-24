@@ -1,0 +1,29 @@
+{% extends 'index.html' %} {% block content %}
+<center>
+    <div class="p1">
+        <b>Damage Prediction</b>
+    </div>
+    <br>
+    <div class="container">
+        <b>Foundation Type: </b> {{foundation}}<br>
+        <b>Roof Type: </b> {{roof}}<br>
+        <b>Ground Floor Type: </b> {{ground}}<br>
+        <b>Building Age: </b> {{age}}<br>
+        <b>Building Height: </b> {{height}}<br>
+        <b>Plinth Area: </b> {{plinth}}<br>
+        <b>Damage Prediction : </b> {{result}}<br>
+    </div>
+    <hr>
+    <a href="/pred_lr" target="_self">
+        <button style="background-color: rgb(255, 90, 95); color: whitesmoke" class="btn btn-light">
+            Predict Again
+        </button>
+    </a>
+    <a href="/" target="_self">
+        <button style="background-color: rgb(255, 90, 95); color: whitesmoke" class="btn btn-light">
+            Back to Home
+        </button>
+    </a>
+</center>
+
+{% endblock %}
