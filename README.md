@@ -51,3 +51,28 @@
 - 'condition_post_eq': Actual contition of the building after the earthquake
 - 'damage_grade': Damage grade assigned to the building by the surveyor after assessment
 - 'technical_solution_proposed': Technical solution proposed by the surveyor after assessment
+
+## Kesimpulan
+> Setelah melakukan analisis yang cukup panjang di atas, saya sampai pada kesimpulan:
+
+> 1. Bangunan dengan level kerusakan high-risk memiliki beberapa ciri:
+
+>   - Memiliki usia di atas 10 tahun
+>   - Menggunakan pondasi berjenis Mud Mortar-Stone/Brick
+>   - Menggunakan superstruktur berjenis adobe_mud, mud mortar-stone, stone_flag, mud_mortar_brick, dan timber
+>   - Menggunakan ground floor berjenis mud dan brick/stone
+>   - Menggunakan atap berjenis Bamboo/Timber-Heavy roof dan Bamboo/Timber-Light roof
+>   - Memiliki posisi Not attached dan Attached 1-side
+
+> 2. Bangunan dengan level kerusakan low-risk memiliki beberapa ciri:
+
+>   - Memiliki usia dibawah 10 tahun
+>   - Menggunakan pondasi berjenis Bamboo/Timber, Cement-Stone/Brick, dan RC
+>   - Menggunakan superstruktur berjenis cement_mortar_stone, cement_mortar_brick, bamboo, dan RC
+>   - Menggunakan ground floor berjenis RC (reinforced concrete) dan Timber
+>   - Menggunakan atap berjenis RCC/RB/RBC
+>   - Memiliki posisi Attached 2-side dan Attached 3-side
+
+> 3. Untuk meningkatkan ketahanan bangunan terhadap gempa cara yang bisa dilakukan yaitu memperkuat SDM dibidang konstruksi, men-train para tukang bangunan untuk membuat bangunan yang lebih kokoh meski dari material sederhana. Kemudian memperkuat bangunan dengan menggunakan material yang terbaik.
+
+> 4. Setelah mengetahui level kerusakan tiap bangunan, pemerintah bisa meneruskan dengan menghitung nilai bangunan yang nantinya akan dimasukkan dalam program disaster risk-financing, perencanaan keuangan yang lebih baik untuk menghadapi bencana sewaktu-waktu.
