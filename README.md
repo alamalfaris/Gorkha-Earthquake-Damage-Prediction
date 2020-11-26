@@ -1,9 +1,9 @@
 # Nepal Earthquake Damage Prediction
 
 ## Background: 
-> - Negara nepal terletak di selatan perbatasan pertemuan lempeng India yang berada dibawahnya lempeng Eurasia. Setiap tahunnya lempeng India bergerak sebanyak 43 mm per tahun. Sehingga menyebabkan Nepal sering mengalami gempa bumi.
+> - Negara nepal memiliki kerentanan terhadap gempa karena terletak di selatan perbatasan pertemuan lempeng India yang berada dibawahnya lempeng Eurasia. Setiap tahunnya lempeng India bergerak sebanyak 43 mm per tahun. Sehingga menyebabkan Nepal sering mengalami gempa bumi.
 
-> - 25 April 2015 Nepal mengalami gempa yang terparah sejak 1934, dengan korban meninggal sebanyak 8964 jiwa, korban luka sebanyak 21952 orang, dan 3.5 juta orang menjadi homeless. Kerugian ekonomi diperkirakan 35% dari PDB Nepal. Gempa ini memiliki magnitudo sebesar 7.8 Mw (Moment Magnitudo Scale) dengan pusat gempa di Barpak, Distrik Gorkha, dan kedalaman hipocenter sekitar 8.2 km
+> - 25 April 2015 Nepal mengalami gempa yang terparah sejak 1934, dengan korban meninggal sebanyak 8964 jiwa, korban luka sebanyak 21952 orang, dan 3.5 juta orang menjadi homeless akibat dari banyaknya bangunan yang rusak. Gempa ini memiliki magnitudo sebesar 7.8 Mw (Moment Magnitudo Scale) dengan pusat gempa di Barpak, Distrik Gorkha, dan kedalaman hipocenter sekitar 8.2 km
 
 ## Problem:
 > - Jika terjadi gempa yang sama, bagaimana dapat mengetahui level kerusakan bangunan dengan kombinasi spesifikasi bangunan
@@ -14,7 +14,7 @@
 > Model yang akan saya bukanlah model yang serba bisa menebak apapun. Batas dari model ini hanya dapat menebak level kerusakan yang diakibatkan oleh gempa yang sama seperti gempa Gorkha (Magnitudo: 7.8 Mw; Epicenter: Barpak, Gorkha District; Hypocenter: 8.2 km) dari grade 1-5 berdasarkan fitur-fitur yang berkaitan dengan spesifikasi bangunan tempat tinggal(jenis pondasi, jenis atap, struktur, dll).
 
 ## Goal: 
-> Memprediksi level kerusakan sebuah bangunan akibat gempa bumi yang terbagi menjadi 5 level, kemudian nantinya pemerintah dapat menghitung nilai kerusakan lalu membuat perencanaan untuk pendanaan kebencanaan
+> Memprediksi level kerusakan sebuah bangunan akibat gempa bumi, kemudian nantinya pemerintah dapat menghitung nilai kerusakan lalu membuat perencanaan untuk pendanaan kebencanaan
 
 ## About data:
 > Data yang digunakan saya peroleh dari https://eq2015.npc.gov.np/#/ yang dikumpulkan antara Januari - May 2016
