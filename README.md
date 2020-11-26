@@ -1,7 +1,7 @@
 # Nepal Earthquake Damage Prediction
 
 ## Background: 
-> - Negara nepal memiliki kerentanan terhadap gempa karena terletak di selatan perbatasan pertemuan lempeng India yang berada dibawahnya lempeng Eurasia. Setiap tahunnya lempeng India bergerak sebanyak 43 mm per tahun. Sehingga menyebabkan Nepal sering mengalami gempa bumi.
+> - Negara nepal memiliki kerentanan terhadap gempa karena terletak di selatan perbatasan pertemuan lempeng India yang berada dibawahnya lempeng Eurasia. Menurut USGS setiap tahunnya lempeng India bergerak sebanyak 45 mm per tahun. Sehingga menyebabkan Nepal sering mengalami gempa bumi.
 
 > - 25 April 2015 Nepal mengalami gempa yang terparah sejak 1934, dengan korban meninggal sebanyak 8964 jiwa, korban luka sebanyak 21952 orang, dan 3.5 juta orang menjadi homeless akibat dari banyaknya bangunan yang rusak. Gempa ini memiliki magnitudo sebesar 7.8 Mw (Moment Magnitudo Scale) dengan pusat gempa di Barpak, Distrik Gorkha, dan kedalaman hipocenter sekitar 8.2 km
 
