@@ -1,4 +1,4 @@
-# Nepal Earthquake Damage Prediction
+# Gorkha Earthquake Damage Prediction
 
 ## Background: 
 > - Negara nepal memiliki kerentanan terhadap gempa karena terletak di selatan perbatasan pertemuan lempeng India yang berada dibawahnya lempeng Eurasia. Menurut USGS setiap tahunnya lempeng India bergerak sebanyak 45 mm per tahun. Sehingga menyebabkan Nepal sering mengalami gempa bumi.
