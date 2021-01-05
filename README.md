@@ -76,3 +76,9 @@
 > 3. Untuk meningkatkan ketahanan bangunan terhadap gempa cara yang bisa dilakukan yaitu memperkuat SDM dibidang konstruksi, men-train para tukang bangunan untuk membuat bangunan yang lebih kokoh meski dari material sederhana. Kemudian memperkuat bangunan dengan menggunakan material yang terbaik.
 
 > 4. Setelah mengetahui level kerusakan tiap bangunan, pemerintah bisa meneruskan dengan menghitung nilai bangunan yang nantinya akan dimasukkan dalam program disaster risk-financing, perencanaan keuangan yang lebih baik untuk menghadapi bencana sewaktu-waktu.
+
+## Machine Learning Conclusion
+> Logistic Regression setelah hyperparameter tuning menghasilkan skor yang sama seperti sebelum tuning
+> KNN setelah hyperparameter tuning menghasilkan skor yang fit di angka 94%
+> Random Forest setelah hyperparameter tuning menghasilkan skor yang fit di angka 95%
+> Untuk di eksport saya memilih model Random Forest yang sudah hyperparameter tuning karena menghasilkan skor yang paling besar
