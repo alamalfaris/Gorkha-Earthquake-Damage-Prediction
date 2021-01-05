@@ -52,7 +52,7 @@
 - 'damage_grade': Damage grade assigned to the building by the surveyor after assessment
 - 'technical_solution_proposed': Technical solution proposed by the surveyor after assessment
 
-## Kesimpulan
+## Analysis Conclusion
 > Setelah melakukan analisis yang cukup panjang di atas, saya sampai pada kesimpulan:
 
 > 1. Bangunan dengan level kerusakan high-risk memiliki beberapa ciri:
